@@ -1,0 +1,12 @@
+
+gretaer than 
+greater than to equal
+less than
+less than equal
+
+a=4
+b=6
+print(a>b)
+print(a>=b)
+print(a<b)
+print(a<=)
