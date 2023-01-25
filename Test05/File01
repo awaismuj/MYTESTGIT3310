@@ -22,3 +22,47 @@ print (s<b)
 print(s>b)
 print(s>=b)
 
+3
+print(a+b)
+print(a-b)
+print(a*b)
+print(/a)
+print(a%b)
+print(a**b)
+print(a//b)
+#-------------------------
+a=4
+b=4
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a<b)
+#---------------------------------
+s="cat"
+b="Dog"
+print (s<b)
+print(s>b)
+print(s>=b)
+3
+print(a+b)
+print(a-b)
+print(a*b)
+print(/a)
+print(a%b)
+print(a**b)
+print(a//b)
+#-------------------------
+a=4
+b=4
+print(a>b)
+print(a>=b)
+print(a<=b)
+print(a<b)
+#---------------------------------
+s="cat"
+b="Dog"
+print (s<b)
+print(s>b)
+print(s>=b)
+
+
